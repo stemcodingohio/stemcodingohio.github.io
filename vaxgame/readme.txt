@@ -14,3 +14,10 @@ to make the site more resistant to "bit rot" moving forward.
 The code was originally released by https://github.com/digitalepidemiologylab/VaxGame 
 on a Creative Commons Attribution Share Alike license. The code was developed by
 Marcel Salathé and collaborators.
+
+The code in this directory is live at http://stemcodingohio.github.io/vaxgame/
+
+Enjoy! And a big thank you to the Salathé group for developing this activity!
+
+Chris Orban
+stemcodingohio@gmail.com 
